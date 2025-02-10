@@ -1,4 +1,4 @@
-git clone https://github.com/Salajmi/NLP-UNCorpus.git
+
 
 <!---
 Salajmi/Salajmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
